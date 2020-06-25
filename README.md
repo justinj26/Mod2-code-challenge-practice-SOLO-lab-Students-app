@@ -116,7 +116,7 @@ After submitting the form, the user should be redirected to the student's show p
 
 ### 6. Advanced: Student Average Age
 
-On the Instrcutor's show page, show the average age of the students for the instrcutor.
+On the Instrcutor's show page, show the average age of the students for the instructor.
 
 ### 7. Advanced: Instructor Show Page Student Ordering
 
